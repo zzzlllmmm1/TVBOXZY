@@ -31,9 +31,9 @@
 "搜索副标题":"<div class=\"module-item-note\">&&</div>",
 "搜索链接":"href=\"&&\"",
 "搜索链接前缀":"https://91free.vip",
-"分类url":"https://91free.vip/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;val",
-"分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$52#伦理$59",
-"登录":"https://91free.vip/index.php/user/login.html;post;user_name=zhang19830310dc&user_pwd=zhang19830310dc",
+"分类url":"https://91free.vip/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$52",
+//"登录":"https://91free.vip/index.php/user/login.html;post;user_name=zhang19830310dc&user_pwd=zhang19830310dc",
 "免嗅":"1",
 "筛选":{
 "20":[
