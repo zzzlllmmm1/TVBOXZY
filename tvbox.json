@@ -5,11 +5,15 @@
 "warningText":"接口完全免费，切勿付费购买。",
 "sites":[
 
+
+
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_xBPQ_539影视","name": "539影视","type": 3,"api": "csp_XBPQ","ext":"./xBPQ/539影视.json","jar":"./JAR/zy.jar"},
 
 {"key": "csp_xBPQ_豆巴影视","name": "豆巴影视","type": 3,"api": "csp_xBPQ","ext":"./xBPQ/豆巴影视.json"},
+
+{"key":"csp_xBPQ_看看屋","name":"看看屋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看屋.json","jar":"./JAR/zy.jar"},
 
 {"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -255,8 +259,6 @@
 
 {"key":"csp_xBPQ_落攻阁","name":"落攻阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/落攻阁.json"},
 
-{"key":"csp_xBPQ_骚火影院","name":"骚火影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/骚火影院.json"},
-
 {"key":"csp_xBPQ_六度影视","name":"六度影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/六度影视.json"},
 
 {"key":"csp_xBPQ_冷曦影视","name":"冷曦影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/冷曦影视.json"},
@@ -330,21 +332,6 @@
 {"key":"csp_XPath_dmd","name":"动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/dmd.json"},
 
 {"key":"csp_XPath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/dm84.json"},
-
-
-
-
-{"key":"csp_XYQBiu_斗鱼直播","name":"斗鱼直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/斗鱼直播.json"},
-
-{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/虎牙直播.json"},
-
-{"key":"csp_XYQBiu_网易CC直播","name":"网易CC直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/网易CC直播.json"},
-
-{"key":"csp_XYQBiu_17klive","name":"体育直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/17klive.json"},
-
-{"key":"csp_XYQBiu_酷狗MV","name":"酷狗MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/酷狗MV.json"},
-
-{"key":"csp_XYQBiu_酷奇MV","name":"酷奇MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/酷奇MV.json"},
 
 
 
@@ -599,6 +586,8 @@
 {"key":"csp_xBPQ_朱古力","name":"朱古力〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/朱古力.json","jar":"./JAR/Yoursmile2.jar"},
 
 {"key":"csp_xBPQ_NOWAV","name":"NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/NOWAV.json","jar":"./JAR/Yoursmile2.jar"},
+
+{"key":"csp_xBPQ_女优","name":"女优〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/女优.json","jar":"./JAR/Yoursmile2.jar"},
 
 {"key":"csp_Miss","name":"Miss AV 翻墙〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 
