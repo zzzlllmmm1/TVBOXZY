@@ -30,7 +30,7 @@
 "二次跳转播放链接": "\"url\"*\"&&\"",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://ys.ccmoe.cc/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}/;;v",
+"分类url":"https://ys.ccmoe.cc/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}/",
 "筛选":{
   
 "1":[
