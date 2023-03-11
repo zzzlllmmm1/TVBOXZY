@@ -552,7 +552,7 @@
 
 {"key":"csp_xBPQ_聚优直播","name":"聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/聚优直播.json","jar":"./JAR/Yoursmile2.jar"},
 
-{"key":"csp_xBPQ_实时直播","name":"实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/实时直播.json","jar":"./JAR/Yoursmile2.jar"},
+{"key":"csp_XBPQ_实时直播","name":"实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/实时直播.json","jar":"./JAR/Yoursmile2.jar"},
 
 {"key":"csp_xBPQ_黄瓜TV","name":"黄瓜TV️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/黄瓜TV.json","jar":"./JAR/Yoursmile2.jar"},
 
