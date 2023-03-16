@@ -6,6 +6,13 @@
 "sites":[
 
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+  {
+			"key": "js加密_直播转点播_仓库2",
+			"name": "直播仓库2｜JS",
+			"type": 3,
+			"api": "./js/直播转点播2.js",
+			"ext": "./TV/直播仓库2.json"
+		},
 
 {"key":"csp_xBPQ_539影视","name":"539影视","type": 3,"api":"csp_XBPQ","ext":"./xBPQ/539影视.json","jar":"./JAR/zy.jar"},
 
