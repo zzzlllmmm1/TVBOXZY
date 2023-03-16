@@ -10,8 +10,8 @@
 			"key": "js加密_直播转点播_仓库2",
 			"name": "直播仓库2｜JS",
 			"type": 3,
-			"api": "./TV/直播转点播2.js",
-			"ext": "./TV/直播仓库2.json"
+			"api": "https://raw.iqiq.io//zzzlllmmm1/TVBOXzhanghong/main/TV/直播转点播2.js",
+			"ext": "https://raw.iqiq.io//zzzlllmmm1/TVBOXzhanghong/main/TV/%E7%9B%B4%E6%92%AD%E4%BB%93%E5%BA%932.json"
 		},
 
 {"key":"csp_xBPQ_539影视","name":"539影视","type": 3,"api":"csp_XBPQ","ext":"./xBPQ/539影视.json","jar":"./JAR/zy.jar"},
